@@ -8,10 +8,10 @@ I'm Adam, a problem solver and builder. I love working on my own projects/startu
 - 🔨 I enjoy building new products, tutorials, and solutions that create value
 
 #### My Skills
-- 🌱 Full stack development
-- 🌱 Machine learning development
-- 🌱 UI/UX design
-- 🌱 Product managing
+- Full stack development
+- Machine learning development
+- UI/UX design
+- Product managing
 
 <!--
 **adam-maj/adam-maj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
