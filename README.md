@@ -20,10 +20,10 @@ I'm Adam, a problem solver and builder. I love working on my own projects/startu
 
 ## Contact me!
 Reach out to me and let's talk (actually do it, people always put these but no one ever actually uses it so lets be the exception 😂)
-- 🧳 Setup Meeting: [My Calendly] (https://calendly.com/adam-maj)
-- 📬 Email: [adam.majmudar@gmail.com](mailto:adam.majmudar@gmail.com)
+- 🧳 Setup Meeting: [My Calendly](https://calendly.com/adam-maj)
 - 🌱 LinkedIn: [Adam Majmudar](https://www.linkedin.com/in/adam-majmudar-24b596194/)
 - 🦩 Twitter: [@MajmudarAdam](https://twitter.com/MajmudarAdam)
+- 📬 Email: [adam.majmudar@gmail.com](mailto:adam.majmudar@gmail.com)
 
 <!--
 **adam-maj/adam-maj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
