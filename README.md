@@ -16,6 +16,14 @@ I'm Adam, a problem solver and builder. I love working on my own projects/startu
 #### I'm currently working on
 - Building a platform for e-commerce brands to form a community at [Dovetale](https://dovetale.com)
 - Product managing and building a opportunity realization solution for real estate agencies at [Ascend](ascendbuild.co)
+- Making a free online reinforcement learning demo for people of all ages to learn
+
+## Contact me!
+Reach out to me and let's talk (actually do it, people always put these but no one ever actually uses it so lets be the exception 😂)
+- 🧳 Setup Meeting: [My Calendly] (https://calendly.com/adam-maj)
+- 📬 Email: [adam.majmudar@gmail.com](mailto:adam.majmudar@gmail.com)
+- 🌱 LinkedIn: [Adam Majmudar](https://www.linkedin.com/in/adam-majmudar-24b596194/)
+- 🦩 Twitter: [@MajmudarAdam](https://twitter.com/MajmudarAdam)
 
 <!--
 **adam-maj/adam-maj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
