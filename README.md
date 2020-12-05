@@ -2,10 +2,16 @@
 
 I'm Adam, a problem solver and builder. I love working on my own projects/startup ideas and working with others on startups as well. 
 
-## About Me
-- 🧠 I have a huge variety of interests (ranging from neuroscience to quantum computing to much more) but I often find that coding is something that can be applied to every interest.
-- 🚀 I like to explore new technologies frequently - right now I've worked a lot with full stack development and machine learning
+### About Me
+- 🧠 I have a huge variety of interests (from neuro to quantum)
+- 🚀 I like to explore new technologies frequently
 - 🔨 I enjoy building new products, tutorials, and solutions that create value
+
+#### My Skills
+- 🌱 Full stack development
+- 🌱 Machine learning development
+- 🌱 UI/UX design
+- 🌱 Product managing
 
 <!--
 **adam-maj/adam-maj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
