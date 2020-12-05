@@ -14,7 +14,8 @@ I'm Adam, a problem solver and builder. I love working on my own projects/startu
 - Product managing
 
 #### I'm currently working on
-- Building a platform for e-commerce brands to form a community at (Dovetale)[https://dovetale.com]
+- Building a platform for e-commerce brands to form a community at [Dovetale](https://dovetale.com)
+- Product managing and building a opportunity realization solution for real estate agencies at [Ascend](ascendbuild.co)
 
 <!--
 **adam-maj/adam-maj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
