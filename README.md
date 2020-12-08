@@ -16,7 +16,7 @@ I'm Adam, a problem solver and builder. I love working on my own projects/startu
 #### I'm currently working on
 - Building a platform for e-commerce brands to form a community at [Dovetale](https://dovetale.com)
 - Product managing and building a opportunity realization solution for real estate agencies at [Ascend](ascendbuild.co)
-- Making a free online reinforcement learning demo for people of all ages to learn
+- Making a novel online learning platform with the goal of educating people by interaction
 
 ## Contact me!
 Reach out to me and let's talk (actually do it, people always put these but no one ever actually uses it so lets be the exception 😂)
