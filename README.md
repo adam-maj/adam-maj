@@ -11,7 +11,8 @@ I'm Adam, a problem solver and builder. I love working on my own projects/startu
 - Full stack development
 - Machine learning development
 - UI/UX design
-- Product managing
+- Product development and project management
+- Marketing & direct sales
 
 #### I'm currently working on
 - Building a platform for e-commerce brands to form a community at [Dovetale](https://dovetale.com)
