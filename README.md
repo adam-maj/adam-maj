@@ -26,4 +26,5 @@ Reach out to me and let's talk (actually do it, people always put these but no o
 - 🦩 Twitter: [@MajmudarAdam](https://twitter.com/MajmudarAdam)
 - 📬 Email: [adam.majmudar@gmail.com](mailto:adam.majmudar@gmail.com)
 
+## My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-maj&show_icons=true&theme=radical)
