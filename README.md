@@ -1,26 +1,14 @@
-### Hi there 👋
+### whats up 👋
 
-I'm Adam, a problem solver and builder. I love working on my own projects/startup ideas and working with others on startups as well. 
+I'm Adam. I like building products + tinkering with new technologies.
 
 ### About Me
-- 🧠 I have a huge variety of interests (from neuro to quantum)
-- 🚀 I like to explore new technologies frequently
-- 🔨 I enjoy building new products, tutorials, and solutions that create value
-
-#### My Skills
-- Full stack development
-- Machine learning development
-- UI/UX design
-- Product development and project management
-- Marketing & direct sales
-
-#### I'm currently working on
-- Building a platform for e-commerce brands to form a community at [Dovetale](https://dovetale.com)
-- Product managing and building a opportunity realization solution for real estate agencies at [Ascend](ascendbuild.co)
-- Making a novel online learning platform with the goal of educating people by interaction
+- I'm currently working on building @thirdweb-dev and am focused on making 10x improvements to the web3 dev experience
+- In the past I've worked as in ML, and love building fundamentals based projects (I've made a neural network engine from scratch, NLP chatbot engine, reinforcement learning environment, etc.)
+- I've explored/want to explore computational neuroscience/biology, game development, VR/AR development, and low-level/embedded systems more
 
 ## Contact me!
-Reach out to me and let's talk (actually do it, people always put these but no one ever actually uses it so lets be the exception 😂)
+Reach out to me and let's talk (actually do it, I dare you)
 - 🧳 Setup Meeting: [My Calendly](https://calendly.com/adam-maj)
 - 🌱 LinkedIn: [Adam Majmudar](https://www.linkedin.com/in/adam-majmudar-24b596194/)
 - 🦩 Twitter: [@MajmudarAdam](https://twitter.com/MajmudarAdam)
