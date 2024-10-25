@@ -1,4 +1,4 @@
-### whats up 👋
+### hi 👋
 
 - I'm [Adam](https://adammaj.com)
 - I spent 3 years building [thirdweb](https://thirdweb.com) ([github](https://github.com/thirdweb-dev))
